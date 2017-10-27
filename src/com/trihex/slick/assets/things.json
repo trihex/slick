@@ -1,0 +1,402 @@
+[
+	{
+		"name":"Giant Ant",
+		"x": 0,
+		"y": 0
+	},
+	{
+		"name":"Killer Bee",
+		"x": 1,
+		"y": 0
+	},
+	{
+		"name":"Solder Ant",
+		"x": 2,
+		"y": 0
+	},
+	{
+		"name":"Fire Ant",
+		"x": 3,
+		"y": 0
+	},
+	{
+		"name":"Giant Beetle",
+		"x": 4,
+		"y": 0
+	},
+	{
+		"name":"Queen Bee",
+		"x": 5,
+		"y": 0
+	},
+	{
+		"name":"Acid Blob",
+		"x": 6,
+		"y": 0
+	},
+	{
+		"name":"Quivering Blob",
+		"x": 7,
+		"y": 0
+	},
+	{
+		"name":"Gelatinous Cube",
+		"x": 8,
+		"y": 0
+	},
+	{
+		"name":"Chickatrice",
+		"x": 9,
+		"y": 0
+	},
+	{
+		"name":"Cockatrice",
+		"x": 10,
+		"y": 0
+	},
+	{
+		"name":"Pyrolisk",
+		"x": 11,
+		"y": 0
+	},
+	{
+		"name":"Jackal",
+		"x": 12,
+		"y": 0
+	},
+	{
+		"name":"Fox",
+		"x": 13,
+		"y": 0
+	},
+	{
+		"name":"Coyote",
+		"x": 14,
+		"y": 0
+	},
+	{
+		"name":"Werejackel",
+		"x": 15,
+		"y": 0
+	},
+	{
+		"name":"Little Dog",
+		"x": 16,
+		"y": 0
+	},
+	{
+		"name":"Dingo",
+		"x": 17,
+		"y": 0
+	},
+	{
+		"name":"Dog",
+		"x": 18,
+		"y": 0
+	},
+	{
+		"name":"Large Dog",
+		"x": 19,
+		"y": 0
+	},
+	{
+		"name":"Wolf",
+		"x": 20,
+		"y": 0
+	},
+	{
+		"name":"Werewolf",
+		"x": 21,
+		"y": 0
+	},
+	{
+		"name":"Winter Wolf Cub",
+		"x": 22,
+		"y": 0
+	},
+	{
+		"name":"Warg",
+		"x": 23,
+		"y": 0
+	},
+	{
+		"name":"Winter Wolf",
+		"x": 24,
+		"y": 0
+	},
+	{
+		"name":"Hellhound Pup",
+		"x": 25,
+		"y": 0
+	},
+	{
+		"name":"Hellhound",
+		"x": 26,
+		"y": 0
+	},
+	{
+		"name":"Cerberus",
+		"x": 27,
+		"y": 0
+	},
+	{
+		"name":"Gas Spore",
+		"x": 28,
+		"y": 0
+	},
+	{
+		"name":"Floating Eye",
+		"x": 29,
+		"y": 0
+	},
+	{
+		"name":"Freezing Sphere",
+		"x": 30,
+		"y": 0
+	},
+	{
+		"name":"Flaming Sphere",
+		"x": 31,
+		"y": 0
+	},
+	{
+		"name":"Shocking Sphere",
+		"x": 32,
+		"y": 0
+	},
+	{
+		"name":"Beholder",
+		"x": 33,
+		"y": 0
+	},
+	{
+		"name":"Kitten",
+		"x": 34,
+		"y": 0
+	},
+	{
+		"name":"Housecat",
+		"x": 35,
+		"y": 0
+	},
+	{
+		"name":"Jaguar",
+		"x": 36,
+		"y": 0
+	},
+	{
+		"name":"Lynx",
+		"x": 37,
+		"y": 0
+	},
+	{
+		"name":"Panther",
+		"x": 38,
+		"y": 0
+	},
+	{
+		"name":"Large Cat",
+		"x": 39,
+		"y": 0
+	},
+	{
+		"name":"Tiger",
+		"x": 0,
+		"y": 1
+	},
+	{
+		"name":"Gremlin",
+		"x": 1,
+		"y": 1
+	},
+	{
+		"name":"Gargoyle",
+		"x": 2,
+		"y": 1
+	},
+	{
+		"name":"Winged Gargoyle",
+		"x": 3,
+		"y": 1
+	},
+	{
+		"name":"Hobbit",
+		"x": 4,
+		"y": 1
+	},
+	{
+		"name":"Dwarf",
+		"x": 5,
+		"y": 1
+	},
+	{
+		"name":"Bugbear",
+		"x": 6,
+		"y": 1
+	},
+	{
+		"name":"Dwarf Lord",
+		"x": 7,
+		"y": 1
+	},
+	{
+		"name":"Dwarf King",
+		"x": 8,
+		"y": 1
+	},
+	{
+		"name":"Mind Flayer",
+		"x": 9,
+		"y": 1
+	},
+	{
+		"name":"Master Mind Flayer",
+		"x": 10,
+		"y": 1
+	},
+	{
+		"name":"Manes",
+		"x": 11,
+		"y": 1
+	},
+	{
+		"name":"Homunculus",
+		"x": 12,
+		"y": 1
+	},
+	{
+		"name":"Imp",
+		"x": 13,
+		"y": 1
+	},
+	{
+		"name":"Lemure",
+		"x": 14,
+		"y": 1
+	},
+	{
+		"name":"Quasit",
+		"x": 15,
+		"y": 1
+	},
+	{
+		"name":"Tengu",
+		"x": 16,
+		"y": 1
+	},
+	{
+		"name":"Blue Jelly",
+		"x": 17,
+		"y": 1
+	},
+	{
+		"name":"Spotted Jelly",
+		"x": 18,
+		"y": 1
+	},
+	{
+		"name":"Ochre Jelly",
+		"x": 19,
+		"y": 1
+	},
+	{
+		"name":"Kobold",
+		"x": 20,
+		"y": 1
+	},
+	{
+		"name":"Large Kobold",
+		"x": 21,
+		"y": 1
+	},
+	{
+		"name":"Kobold Lord",
+		"x": 22,
+		"y": 1
+	},
+	{
+		"name":"Kobold Shamman",
+		"x": 23,
+		"y": 1
+	},
+	{
+		"name":"Leprechuan",
+		"x": 24,
+		"y": 1
+	},
+	{
+		"name":"Small Mimic",
+		"x": 25,
+		"y": 1
+	},
+	{
+		"name":"Large Mimic",
+		"x": 26,
+		"y": 1
+	},
+	{
+		"name":"Giant Mimic",
+		"x": 27,
+		"y": 1
+	},
+	{
+		"name":"Wood Nymph",
+		"x": 28,
+		"y": 1
+	},
+	{
+		"name":"Water Nymph",
+		"x": 29,
+		"y": 1
+	},
+	{
+		"name":"Mountain Nymph",
+		"x": 30,
+		"y": 1
+	},
+	{
+		"name":"Goblin",
+		"x": 31,
+		"y": 1
+	},
+	{
+		"name":"Hobgoblin",
+		"x": 32,
+		"y": 1
+	},
+	{
+		"name":"Orc",
+		"x": 33,
+		"y": 1
+	},
+	{
+		"name":"Hill Orc",
+		"x": 34,
+		"y": 1
+	},
+	{
+		"name":"Mordor Orc",
+		"x": 35,
+		"y": 1
+	},
+	{
+		"name":"Uruk-hai",
+		"x": 36,
+		"y": 1
+	},
+	{
+		"name":"Orc Shaman",
+		"x": 37,
+		"y": 1
+	},
+	{
+		"name":"Orc Captain",
+		"x": 38,
+		"y": 1
+	},
+	{
+		"name":"Rock Piercer",
+		"x": 39,
+		"y": 1
+	}
+]
